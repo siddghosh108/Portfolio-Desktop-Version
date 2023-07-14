@@ -211,6 +211,11 @@ nav img {
   border: none;
 }
 
+.wrapper:hover {
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.486);
+  background-color: #36B37F;
+}
+
 .about {
   display: flex;
   flex-direction: column;
