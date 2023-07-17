@@ -21,13 +21,14 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
+- [Deployment](#deployment)
+
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -105,12 +106,6 @@ To run tests, run the following command:
 - npx hint .
 - npx stylelint "\*_/_.{css,scss}"
 
-### Deployment
-
-- Project is deployed using [GitHub Pages](https://pages.github.com/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -169,6 +164,6 @@ major thanks to microverse and it's code reviewers.
 This project is [MIT](https://github.com/siddghosh108/Portfolio_Desktop_Version/blob/portfolio-desktop-version/mit.md) licensed.
 
 ## Deployment <a name="deployment"></a>
-View the project deployed on https://siddghosh108.github.io/Portfolio_Desktop_Version/
+View the project deployed on https://siddghosh108.github.io/Portfolio-Desktop-Version/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
